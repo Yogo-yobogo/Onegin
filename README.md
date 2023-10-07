@@ -1,5 +1,5 @@
 # Onegin
-Read file in dynamic memory, split it on lines
+//Read file in dynamic memory, split it on lines
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
